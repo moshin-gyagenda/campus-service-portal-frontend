@@ -1,4 +1,4 @@
-# Campus Service Portal — Frontend Prototype
+# Campus Service Portal — Frontend Prototype (MUBS)
 
 Static HTML + Tailwind CSS screens for the Campus Service Portal (Version 1.1 spec). No Laravel and no project JavaScript — each page contains its own header, sidebar, and footer.
 
